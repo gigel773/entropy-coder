@@ -1,4 +1,4 @@
-
+#include "ec.h"
 
 EC_status EC_normalizeArray(char *src, int srcLength, char *dst, char *minimalValue) {
 
